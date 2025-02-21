@@ -14,4 +14,5 @@ AUDIC automates data extraction, compares it to clinical guidelines, and generat
 
 ## Website
 
-Visit the live project at: [https://audic.onrender.com](https://audic.onrender.com)
+Visit the live project at: <a href="https://audic.onrender.com" target="_blank">https://audic.onrender.com</a>
+
