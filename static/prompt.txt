@@ -1,0 +1,8 @@
+Based on the provided guidelines and the patient's medical record, create a Markdown table with the following columns:
+
+1. Row Number
+2. Requirement/Test from Guideline (Identify gaps or mismatches, such as missing tests or unmet recommendations and only use the Requirements from the given guideline)
+3. Met (Yes/No) based on the patient data
+4. Evidence from Patient's Medical Record (Include a 'direct quote' and 'page number' if Evidence exist)
+
+Ensure the table is formatted in Markdown and contains only these columns. Output only the table with no additional text.
